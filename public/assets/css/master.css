@@ -2254,6 +2254,13 @@ font-family: "muli",sans-serif;
   .about-text{
     margin-bottom: 60px;
   }
+  .about p{
+font-size: 15.5px;
+  }
+   .about .p2{
+font-size: 16px;
+  }
+  
 }
 @media (max-width:500px) {
   .about-image{
